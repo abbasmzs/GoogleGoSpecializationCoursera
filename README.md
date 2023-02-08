@@ -20,7 +20,7 @@ I hope you would enjoy, and that this would give rise to nice discussions.
 ### 1. Getting Started with Go
 * Week 1
 	* [Quiz](https://github.com/abbasmzs/GoogleGoSpecializationCoursera/blob/master/1.GettingStartedWithGo/Week1/QuizSolution.md)
-	* [Programming Assignment: Hello World](https://github.com/abbasmzs/GoogleGoSpecializationCoursera/blob/master/1.GettingStartedWithGo/Week1/HelloWorld.go)
+	* [Programming Assignment: HelloWorld.go](https://github.com/abbasmzs/GoogleGoSpecializationCoursera/blob/master/1.GettingStartedWithGo/Week1/HelloWorld.go)
 
 * Week 2
 	* [Quiz](https://github.com/abbasmzs/GoogleGoSpecializationCoursera/blob/master/1.GettingStartedWithGo/Week2/QuizSolution.md)
